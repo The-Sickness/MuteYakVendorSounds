@@ -1,0 +1,10 @@
+## Interface: 100100
+## Title: MuteYakVendorSounds
+## Notes: Shut those Yak vendors up!!!!!!!
+## Author: Sharpedge_Gaming
+## Version: V-1.0
+## Dependencies:
+## IconTexture: 616692
+
+
+MuteYakVendorSounds.lua
