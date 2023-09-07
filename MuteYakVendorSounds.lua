@@ -1,3 +1,8 @@
+-- MuteYakVendors
+-- Made by Sharpedge_Gaming
+-- v1.1 - 10.1.7
+
+
 local soundKitIDs = {
     640336, 640338, 640340,
     640314, 640316, 640318, 640320,
