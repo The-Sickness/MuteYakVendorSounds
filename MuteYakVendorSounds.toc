@@ -1,8 +1,8 @@
-## Interface: 100107
+## Interface: 110002
 ## Title: MuteYakVendorSounds
 ## Notes: Shut those Yak vendors up!!!!!!!
 ## Author: Sharpedge_Gaming
-## Version: V-1.2
+## Version: V-1.4
 ## Dependencies:
 ## IconTexture: 616692
 
